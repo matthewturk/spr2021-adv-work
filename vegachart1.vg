@@ -7,4 +7,4 @@
         "x": {"field": "x","type": "quantitative"},
         "y": {"field": "y","type": "quantitative"}
       }
-  }
+}
